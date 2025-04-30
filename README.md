@@ -1,16 +1,60 @@
-# tracking_expense
+# 💰 Expense Tracker App
 
-A new Flutter project.
+A simple and clean Flutter application to **track your daily expenses**. This app allows users to add, view, and delete their expenses in an organized way.
 
-## Getting Started
+## 📱 Screenshots
+*(You can add screenshots here later by uploading them and using the markdown image tag.)*
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📌 Add new expenses with title and amount  
+- 📃 View a list of all expenses  
+- 🗑️ Delete expenses when not needed  
+- 📊 User-friendly UI with Material Design  
+- 📱 Works on Android, iOS, and Desktop (Windows/Linux/macOS)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧰 Technologies Used
+
+- **Flutter** – for building the app
+- **Dart** – programming language used
+- **VS Code** – development environment
+- **Git & GitHub** – version control and collaboration
+
+---
+
+## 🛠 Installation Steps
+
+
+ Prerequisites
+ 
+ Flutter (latest stable)
+ 
+Other:
+
+JDK 11 or 17 if you're gonna build for Android
+XCode if you're gonna build for iOS/macOS
+
+1. Clone the repository  
+
+   git clone https://github.com/Harsh-315/My-EXPENSE.git
+   cd My-EXPENSE
+   
+2. Install dependencies
+   flutter pub get
+
+3. Run the App
+   flutter run
+
+   ✨ Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📄 License
+This project is open source and available under the MIT License.
+
+👨‍💻 Developed by
+Harsh-315
+
