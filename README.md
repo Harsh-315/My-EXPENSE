@@ -2,9 +2,6 @@
 
 A simple and clean Flutter application to **track your daily expenses**. This app allows users to add, view, and delete their expenses in an organized way.
 
-## 📱 Screenshots
-*(You can add screenshots here later by uploading them and using the markdown image tag.)*
-
 ---
 
 ## 🚀 Features
